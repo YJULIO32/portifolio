@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hi, I'm [Your Name], passionate about creative tech including software engineering, artificial intelligence, and cloud computing.</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am an aspiring tech enthusiast with a background in Artificial Intelligence, Cloud Computing, and Software Engineering. I have earned an ALX certificate in Artificial Intelligence and am currently enrolled in a cloud computing course from Microsoft.</p>
+        <p>Additionally, I have registered for the September intake at the Adventist University of Central Africa and am also enrolled in front-end development at ALX.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Artificial Intelligence (ALX Certificate)</li>
+            <li>Cloud Computing (Microsoft Course)</li>
+            <li>Software Engineering (Beginner level)</li>
+            <li>Front-End Development (Enrolled at ALX)</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Coming soon! Stay tuned for my latest projects in AI, cloud computing, and front-end development.</p>
+    </section>
+    
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>ALX Certificate in Artificial Intelligence</li>
+            <li>Cloud Computing Course from Microsoft</li>
+            <li>September intake at Adventist University of Central Africa</li>
+            <li>Enrolled in Front-End Development at ALX</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me at [your email] or connect with me on [LinkedIn/Twitter/etc.].</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
